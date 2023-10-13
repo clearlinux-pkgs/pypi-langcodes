@@ -4,7 +4,7 @@
 #
 Name     : pypi-langcodes
 Version  : 3.3.0
-Release  : 10
+Release  : 11
 URL      : https://files.pythonhosted.org/packages/5f/ec/9955d772ecac0bdfb5d706d64f185ac68bd0d4092acdc2c5a1882c824369/langcodes-3.3.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/5f/ec/9955d772ecac0bdfb5d706d64f185ac68bd0d4092acdc2c5a1882c824369/langcodes-3.3.0.tar.gz
 Summary  : Tools for labeling human languages with IETF language tags
