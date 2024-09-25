@@ -1,5 +1,5 @@
 PKG_NAME := pypi-langcodes
-URL = https://files.pythonhosted.org/packages/57/a8/eef8555bb38e9a41451deabd7962b68764f1681bfd43a73e37a0586d8d04/langcodes-3.4.0.tar.gz
+URL = https://files.pythonhosted.org/packages/f4/79/adb488d97c8bad22fe69a1966c3fb47eb38b22598324d8ffbc5e88bc475d/langcodes-3.4.1.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
